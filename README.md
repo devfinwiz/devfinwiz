@@ -12,8 +12,8 @@ Feel free to browse my repos, I hope you will find something really interesting!
 <table align="center">
     <thead>
         <tr>
-          <th colspan=2>#TechStats</th>
-          <th>#StayTuned</th>
+          <th colspan=2>Statistics</th>
+          <th>Stay Tuned</th>
         </tr>
     </thead>
     <tbody>
@@ -60,7 +60,8 @@ Feel free to browse my repos, I hope you will find something really interesting!
 
 ---
 
-#### Languages and Tools that I use, I'm familiar with: 
+
+### Languages and Tools that I use, I'm familiar with: 
 | **Title** | **Tools** |
 | --- | --- |
 | **Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![alt text](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![alt text](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![alt text](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
