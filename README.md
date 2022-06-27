@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/pranjal-joshi/pranjal-joshi/main/coder_boy.svg" width="256">
+<img align="left" src="https://github.com/devfinwiz/devfinwiz/raw/main/AVATAR.PNG" width="276">
 <h2> Hello 🙋‍♂️, I'm <a href='https://github.com/devfinwiz'>Dev</a> <img align="right" src="https://gpvc.arturio.dev/devfinwiz"></h2>
 
 <p align='justify'>
