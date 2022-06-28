@@ -20,7 +20,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
       <tr>
         <td rowspan=4>
           <a href="#">
-            <img src="https://github-readme-stats.vercel.app/api?username=devfinwiz&show_icons=true&theme=chartreuse-dark"> 
+            <img src="https://github-readme-stats.vercel.app/api?username=devfinwiz&show_icons=true&theme=-dark"> 
           </a>
         </td>
         <td rowspan=4>
