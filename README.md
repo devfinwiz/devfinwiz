@@ -25,7 +25,7 @@ Feel free to browse my repos, I hope you will find something really interesting!
         </td>
         <td rowspan=4>
           <a href="#">
-            <img src="http://github-readme-streak-stats.herokuapp.com?user=devfinwiz&theme=-ice"> 
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=devfinwiz&theme=black-ice"> 
           </a>
         </td>
         <td>
