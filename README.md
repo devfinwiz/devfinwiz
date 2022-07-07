@@ -1,3 +1,4 @@
+<img src="https://rand-xyz.now.sh/api/hello">
 <img align="left" src="https://github.com/devfinwiz/devfinwiz/raw/main/AVATAR.PNG" width="276">
 <h2> Hello 🙋‍♂️, I'm <a href='https://github.com/devfinwiz'>Dev</a> <img align="right" src="https://gpvc.arturio.dev/devfinwiz"></h2>
 
