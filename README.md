@@ -60,8 +60,8 @@ Feel free to browse my repos, I hope you will find something really interesting!
 </table>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=devfinwiz&theme=react-dark&hide_border=true&area=true"/>
----
 
+![](https://i.imgur.com/waxVImv.png)
 
 ### Languages and Tools that I use, I'm familiar with: 
 | **Title** | **Tools** |
