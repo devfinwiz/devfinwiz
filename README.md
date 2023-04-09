@@ -3,7 +3,7 @@
 <h2> Hello 🙋‍♂️, I'm <a href='https://github.com/devfinwiz'>Dev</a> <img align="right" src="https://gpvc.arturio.dev/devfinwiz"></h2>
 
 <p align='justify'>
-I am an Associate Software Engineer Intern at Veritas Technologies and a final-year PCCOE, Pune, CS student. When I was sixteen, I began my adventure into programming. Despite my familiarity with a variety of computer languages, Python development is where I feel most at ease. I am a financial tinkerer and have been trading for the past 8 years, in addition to having an interest in the field of software development. With the help of my programming skills, I am fixated on trying to make finance, particularly the stock markets, simpler for retail traders and investors. Also, I am a part-time financial blogger.
+I am an Associate Software Engineer Intern at Veritas Technologies and a final-year PCCOE, Pune, CS student. Despite my familiarity with a variety of computer languages, Python development is where I feel most at ease. I am a financial tinkerer and have been trading for the past 8 years, in addition to having an interest in the field of software development. With the help of my programming skills, I am fixated on trying to make finance, particularly the stock markets, simpler for retail traders and investors. Also, I am a part-time financial blogger.
 Feel free to browse my repos, I hope you will find something really interesting! :octocat:
 <br></br>
 <img align="right" src="https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge" href="!#">
