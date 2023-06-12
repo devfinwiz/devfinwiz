@@ -59,11 +59,6 @@ Feel free to browse my repos, I hope you will find something really interesting!
     </tbody>
 </table>
 
-<div align="center">
-     <a href="https://github.com/devfinwiz">
-      <img height="280em alt="GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=devfinwiz&bg_color=000000&color=ffffff&line=ffffff&point=ff5900&area=true&hide_border=true">
-    </div>
-
 ![](https://i.imgur.com/waxVImv.png)
 
 ### Languages and Tools that I use, I'm familiar with: 
