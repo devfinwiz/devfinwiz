@@ -1,6 +1,6 @@
 <img src="https://rand-xyz.now.sh/api/hello">
 <img align="left" src="https://github.com/devfinwiz/devfinwiz/raw/main/AVATAR.PNG" width="276">
-<h2> Hello 🙋‍♂️, I'm <a href='https://github.com/devfinwiz'>Dev</a> <img align="right" src="https://gpvc.arturio.dev/devfinwiz"></h2>
+<h2> Hello 🙋‍♂️, I'm <a href='https://github.com/devfinwiz'>Dev</a></h2>
 
 <p align='justify'>
 I am an Associate Software Engineer at Veritas Technologies. Despite my familiarity with a variety of computer languages, Python development is where I feel most at ease. I am a financial tinkerer and have been trading for the past 8 years, in addition to having an interest in the field of software development. With the help of my programming skills, I am fixated on trying to make finance, particularly the stock markets, simpler for retail traders and investors. Also, I am a part-time financial blogger.
